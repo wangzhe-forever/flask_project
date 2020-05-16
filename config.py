@@ -21,9 +21,7 @@ MAIL_SERVER = "smtp.qq.com"
 MAIL_PORT = "587"
 MAIL_USE_TLS = True
 # MAIL_USE_SSL : default False/465
-MAIL_USERNAME = "3468578258@qq.com"
-MAIL_PASSWORD = "zrjxenczileccjej"
-MAIL_DEFAULT_SENDER = "3468578258@qq.com"
+
 
 
 # 阿里大于相关配置
